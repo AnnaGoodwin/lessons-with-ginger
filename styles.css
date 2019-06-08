@@ -1,3 +1,11 @@
 * {
   box-sizing: border-box;
 }
+
+body {
+  background-color: #883D47;
+}
+
+header {
+  background-color: #86A6BB;
+}
