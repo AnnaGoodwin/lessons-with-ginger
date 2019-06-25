@@ -3,9 +3,25 @@
 }
 
 body {
-  background-color: #883D47;
+  font-family: sans-serif;
+  background-color: #86A6BB;
 }
 
 header {
-  background-color: #86A6BB;
+  margin: 10px 20%;
+  background-color:#883D47 ;
+}
+
+h1 {
+  padding: 20px;
+  font-weight: 100;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+}
+
+img {
+  margin: 10px 25%;
+  width: 50%;
+  text-align: center;
 }
